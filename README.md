@@ -10,7 +10,7 @@
 
 ### 📬 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/murari-sreekumar-1a5809305/)  
-📧 Gmail:murarisreekumar@gmail.com *(replace with your actual email)*
+📧 Gmail:murarisreekumar@gmail.com
 
 ---
 
@@ -72,7 +72,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muru2005&show_icons=true&theme=radical" alt="Murari's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muru2005&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+
 </p>
 
 ---

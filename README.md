@@ -19,7 +19,7 @@
 #### 📱 CSE Dept Attendance System (Ongoing)
 - Time-synced QR-based student-led attendance with HMAC security.
 - Proxy prevention, OD workflows, and real-time notifications.
-- **Tech Stack**: Spring Boot, Flask, Redis, MongoDB, Cassandra, Docker  
+- **Tech Stack**: Spring Boot, Flask, Redis, MongoDB,Docker  
 - 🔒 Code release planned post-deployment.
 
 #### 🌐 PeerLearn – P2P Learning Platform

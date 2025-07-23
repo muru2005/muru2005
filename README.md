@@ -74,10 +74,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=muru2005&show_icons=true&theme=radical" alt="Murari's GitHub Stats" height="165"/>
 
 </p>
+
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muru2005&theme=radical" alt="muru2005's streak"/>
+  <img src="https://streak-stats.demolab.com/?user=muru2005&theme=radical" alt="GitHub Streak" />
 </p>
 
 

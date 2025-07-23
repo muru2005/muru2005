@@ -1,64 +1,64 @@
-## 👋 Hi there! I'm Murari Sreekumar
+##  Hi there! I'm Murari Sreekumar
 
-🎓 Pre-final year student at **SSN College of Engineering**  
-💡 Passionate about **Web Development**, **Machine Learning**, and **Natural Language Processing**  
-🎯 Focused on:  
+ Pre-final year student at **SSN College of Engineering**  
+ Passionate about **Web Development**, **Machine Learning**, and **Natural Language Processing**  
+ Focused on:  
 - Backend Development & System Design  
 - Applied Machine Learning & NLP  
 
 ---
 
-### 📬 Connect with me  
+###  Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/murari-sreekumar-1a5809305/)  
 📧 Gmail:murarisreekumar@gmail.com
 
 ---
 
-### 🚀 Projects
+###  Projects
 
-#### 📱 CSE Dept Attendance System (Ongoing)
+####  CSE Dept Attendance System (Ongoing)
 - Time-synced QR-based student-led attendance with HMAC security.
 - Proxy prevention, OD workflows, and real-time notifications.
 - **Tech Stack**: Spring Boot, Flask, Redis, MongoDB,Docker  
-- 🔒 Code release planned post-deployment.
+-  Code release planned post-deployment.
 
-#### 🌐 PeerLearn – P2P Learning Platform
+####  PeerLearn – P2P Learning Platform
 - Gamified learning using in-app currency (Stars).
 - Adaptive roadmaps based on top-user contributions.
-- ⏱️ Built in 24h during Envision SSN.
+-  Built in 24h during Envision SSN.
 
-#### 🤖 Prompt2Learn
+#### Prompt2Learn
 - AI-powered web app for educators and learners.
 - Features: transcription, summarization, quiz generation, performance analytics.
 - Includes a **context-aware RAG (Retrieval-Augmented Generation)** chatbot.
 
 ---
 
-### 🧪 Other Notables
-- 🍽️ Food Delivery System in C  
-- ☁️ Weather App in Java  
+###  Other Notables
+-  Food Delivery System in C  
+-  Weather App in Java  
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-#### 👨‍💻 Programming Languages  
+####  Programming Languages  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🧰 Frameworks / Libraries  
+####  Frameworks / Libraries  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-#### 🗃️ Databases  
+####  Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
 
-#### 🛠️ Tools & Platforms  
+####  Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)  
@@ -74,7 +74,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=muru2005&show_icons=true&theme=radical" alt="Murari's GitHub Stats" height="165"/>
 
 </p>
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=muru2005&theme=radical" alt="muru2005's streak"/>
+</p>
+
+
 
 ---
 
-Thanks for visiting! 🙌
+Thanks for visiting! 
